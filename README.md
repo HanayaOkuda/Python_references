@@ -31,3 +31,5 @@ Anaconda3をインストールすればいいはず。
 5. SciPyの使い方
 
 6. TensorFlowの使い方
+
+7. Cythonの使い方
