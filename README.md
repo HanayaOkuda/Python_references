@@ -1,4 +1,3 @@
 # python-seminar
-This is a test to make a new repository.
-
-Hello World
+## 場所：理学部1号館101室
+## 時間：12:15-12:45
