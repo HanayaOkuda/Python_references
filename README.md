@@ -20,8 +20,14 @@ Anaconda3をインストールすればいいはず。
 (https://www.anaconda.com/distribution/)
 
 ## 内容
-1. Pythonの基本的な使い方
+1. Pythonの使い方
 
-2. NumPyの使い方
+2. matplotlibの使い方
 
-3. pandasの使い方
+3. NumPyの使い方
+
+4. pandasの使い方
+
+5. SciPyの使い方
+
+6. TensorFlowの使い方
