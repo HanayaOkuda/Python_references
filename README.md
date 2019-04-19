@@ -19,3 +19,9 @@ Anaconda3をインストールすればいいはず。
 
 (https://www.anaconda.com/distribution/)
 
+## 内容
+1. Pythonの基本的な使い方
+
+2. NumPyの使い方
+
+3. pandasの使い方
