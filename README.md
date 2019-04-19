@@ -15,7 +15,7 @@ okuda at epsまで。
 ## 推奨環境
 Python ver. 3.x 以上
 
-Anaconda3をインストールすればいいはず(https://www.anaconda.com/distribution/)。
+Anaconda3をインストールすればいいはず(https://www.anaconda.com/distribution/ )。
 
 ## 内容 (暫定)
 2019/04/22: Python, matplotlib, NumPy
