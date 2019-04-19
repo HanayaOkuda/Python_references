@@ -18,9 +18,7 @@ Python ver. 3.x 以上
 Anaconda3をインストールすればいいはず(https://www.anaconda.com/distribution/)。
 
 ## 内容 (暫定)
-1. Pythonの使い方
-
-2. matplotlibの使い方
+1. Python・matplotlibの使い方
 
 3. NumPy・SciPyの使い方
 
