@@ -1,4 +1,4 @@
-# Python lunch seminar
+# Python lunch seminar (最終更新 2019/04/20)
 
 ## 開催趣旨
 Python使いたいよね？
