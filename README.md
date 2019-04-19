@@ -1,4 +1,4 @@
-# python-seminar
+# Python lunch seminar
 
 ## 開催趣旨
 Python使いたいよね？
