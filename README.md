@@ -17,3 +17,5 @@ Python ver. 3.x 以上
 
 Anaconda3をインストールすればいいはず。
 
+(https://www.anaconda.com/distribution/)
+
