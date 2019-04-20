@@ -25,5 +25,5 @@ NumPyとかmatplotlibとか使いたいと思うんですが、Anaconda3を入�
 
 あとはCythonを使いたい人がいる場合、Visual Studioを入れろと言われることがあります。その場合は先にAnaconda3を入れているとCのライブラリと紐づけがうまくいかないので、一度Anaconda3をアンインストールして、Visual Studioをダウンロードし、その際にAnaconda3をVisual Studio経由で入れるとうまくいきます。
 
-## 内容 (詳しい内容はWikiを見てね)
+## 内容 (詳しい内容はwiki(https://github.com/ue1221/python-seminar/wiki )を見てね)
 2019/04/22: Python, matplotlib
