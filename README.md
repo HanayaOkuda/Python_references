@@ -28,4 +28,4 @@ NumPyとかmatplotlibとか使いたいと思うんですが、Anaconda3を入�
 ## 内容 
 詳しい内容はwiki(https://github.com/ue1221/python-seminar/wiki )を見てね。
 
-2019/04/22: Python, matplotlib
+* 2019/04/22: Python, matplotlib
