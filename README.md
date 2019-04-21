@@ -15,6 +15,7 @@ okuda at epsまでメールをください。直接でも間接でもOKです。
 
 * 第1回 "[Python](https://github.com/ue1221/python-seminar/wiki/1.-basic), [matplotlib](https://github.com/ue1221/python-seminar/wiki/2.-matplotlib)" || 2019/04/22 12:15-12:45 (理学部1号館101室)
 * 第2回 "[NumPy](https://github.com/ue1221/python-seminar/wiki/3.-NumPy)" || 2019/04/29? 12:15-12:45? (理学部1号館101室?)
+* 第X回 "[Cython](https://github.com/ue1221/python-seminar/wiki/3.-Cython)" || 2019/XX/XX XX:XX-XX:XX
 
 ## 推奨環境
 Python 3.x をベースにします(Python 2.x は別言語なので注意)。
