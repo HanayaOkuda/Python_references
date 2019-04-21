@@ -14,10 +14,10 @@ okuda at epsまでメールをください。直接でも間接でもOKです。
 内容の詳細は[wiki](https://github.com/ue1221/python-seminar/wiki)をみてね。
 
 * 第1回 "[Python](https://github.com/ue1221/python-seminar/wiki/1.-print-and-for-loop), [matplotlib](https://github.com/ue1221/python-seminar/wiki/2.-matplotlib)" || 2019/04/22 12:15-12:45 (理学部1号館101室)
-* 第2回 "Numpy" || 2019/04/29? 12:15-12:45? (理学部1号館101室?)
+* 第2回 "NumPy" || 2019/04/29? 12:15-12:45? (理学部1号館101室?)
 
 ## 推奨環境
-Python ver. 3.x をベースにします(Python ver. 2.x は別言語なので注意)。
+Python 3.x をベースにします(Python 2.x は別言語なので注意)。
 
 実行環境はJupyter Notebookが使いやすいです(Anaconda3にデフォルトで入ってます)。
 
