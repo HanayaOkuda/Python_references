@@ -1,5 +1,5 @@
 # Python lunch seminar 
-最終更新 2019/04/21
+最終更新 2019/05/10
 
 ## 開催趣旨
 Python使いたいよね？
@@ -14,7 +14,8 @@ okuda at epsまでメールをください。直接でも間接でもOKです。
 内容の詳細は[wiki](https://github.com/ue1221/python-seminar/wiki)をみてね。
 
 * 第1回 "[Python](https://github.com/ue1221/python-seminar/wiki/1.-basic), [matplotlib](https://github.com/ue1221/python-seminar/wiki/2.-matplotlib)" || 2019/04/22 12:15-12:45 (理学部1号館101室)
-* 第2回 "[NumPy](https://github.com/ue1221/python-seminar/wiki/3.-NumPy)" || 2019/04/29? 12:15-12:45? (理学部1号館101室?)
+* 第2回 "[Data read and write](https://github.com/ue1221/python-seminar/wiki/3.-Data-read-and-write)" || 2019/05/13 12:15-12:45 (理学部1号館101室)
+* 第3回 "[NumPy](https://github.com/ue1221/python-seminar/wiki/3.-NumPy)" || 2019/05/20? 12:15-12:45? (理学部1号館101室?)
 * 第X回 "[Cython](https://github.com/ue1221/python-seminar/wiki/X.-Cython)" || 2019/XX/XX XX:XX-XX:XX
 * 第Y回 "[Pandas](https://github.com/ue1221/python-seminar/wiki/X.-Pandas)" || 2019/YY/YY YY:YY-YY:YY
 * 第Z回 "[SciPy](https://github.com/ue1221/python-seminar/wiki/X.-SciPy)" || 2019/ZZ/ZZ ZZ:ZZ-ZZ:ZZ
