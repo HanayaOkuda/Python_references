@@ -2,15 +2,15 @@
 最終更新 2019/05/10
 
 ## 内容
-内容の詳細は[wiki](https://github.com/ue1221/python-seminar/wiki)をみてね。
+内容の詳細は[wiki](https://github.com/HanayaOkuda/Python_references/wiki)をみてね。
 
 
-* "[Python](https://github.com/ue1221/python-seminar/wiki/1.-basic), [matplotlib](https://github.com/ue1221/python-seminar/wiki/2.-matplotlib)" 
-* "[Data read and write](https://github.com/ue1221/python-seminar/wiki/3.-Data-read-and-write)"
-* "[NumPy](https://github.com/ue1221/python-seminar/wiki/4.-NumPy)" 
-* "[Cython](https://github.com/ue1221/python-seminar/wiki/X.-Cython)" 
-* "[Pandas](https://github.com/ue1221/python-seminar/wiki/Y.-Pandas)"
-* "[SciPy](https://github.com/ue1221/python-seminar/wiki/Z.-SciPy)"
+* "[Python](https://github.com/HanayaOkuda/Python_references/wiki/1.-basic), [matplotlib](https://github.com/HanayaOkuda/Python_references/wiki/2.-matplotlib)" 
+* "[Data read and write](https://github.com/HanayaOkuda/Python_references/wiki/3.-Data-read-and-write)"
+* "[NumPy](https://github.com/HanayaOkuda/Python_references/wiki/4.-NumPy)" 
+* "[Cython](https://github.com/HanayaOkuda/Python_references/X.-Cython)" 
+* "[Pandas](https://github.com/HanayaOkuda/Python_references/Y.-Pandas)"
+* "[SciPy](https://github.com/HanayaOkuda/Python_references/wiki/Z.-SciPy)"
 
 ## 推奨環境
 Python 3.x をベースにします(Python 2.x は別言語なので注意)。
