@@ -33,7 +33,7 @@ Anaconda prompt上だとwsl環境の外のwindowsの上にビルドされたanac
 conda activate <NAME>
 conda install jupyter ipykernel <-- PATHが通らなくてうまくいかない場合はここのipykernelは一回uninstallしてもう一回installしなおしたらうまくいったりする？
 ipython kernel install --user --name=<NAME> --display_name=<NAME> 
-/home/<USER>/anaconda3/envs/<NAME>/share/jupyter/kernels/python3 の下にあるkernel.json の中をみて、一番上のpythonへのパスがあってるか確認
+/home/[USER]/anaconda3/envs/[NAME]/share/jupyter/kernels/python3 の下にあるkernel.json の中をみて、一番上のpythonへのパスがあってるか確認
 
 
 たぶんここまででJupyter lab上ではkernelが見えてて選択できるはずなので、新しくnotebookを作って(既存ファイルでkernelを変えて試すとキャッシュか何かでうまく読めないことがあった)、
@@ -41,6 +41,6 @@ import sys
 print(sys.path)
 print(sys.executable)
 print(sys.version)をやって、選んだpythonのバージョンが選択されてるかを確認。この時、うまく仮想環境のpythonのバージョンが選択されてないケースがある(PATHが通ってない？)
-その場合、"~/.bashrc"の最終行に、"export PATH=/home/<USER>/anaconda3/envs/<NAME>/bin:$PATH" を追加 (conda info -e でpathが見えるはず)
+その場合、"~/.bashrc"の最終行に、"export PATH=/home/[USER]/anaconda3/envs/[NAME]/bin:$PATH" を追加 (conda info -e でpathが見えるはず)
 
 source ~/.bashrc するか、bash_profileの一番下にsource ~\.bashrcを書いておくことで起動時に自動でsourceさせる(<--あってる？)
